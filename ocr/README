@@ -1,0 +1,16 @@
+We are Emilie Fong, Axel Grunenberger, Maya Hannachi and Malo Lecomte. 
+We are "Les Aventuriers du Biscuit Aleatoire", and we are here to show our OCR, 
+or Optical Character Recognition, a project realized in our 2nd year of EPITA.
+
+For the last presentation, we have three parts : 
+a segmentation and binarization part, a neural network and a GUI.
+
+First, download the archive from the git, and de-zip it. (WinRAR can help)
+
+Then create a file using : make
+After that, the ./main command will run the executable file, and launch the GUI.
+Use the "Select Image" button to switch to the selection mode,
+allowing you to choose an image and display it. 
+The Launch Button will run the entire OCR on the text that you choose.
+Finally, the button train is just here to present a proof of the successfull
+training of our Neural network.
